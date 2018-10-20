@@ -1,0 +1,19 @@
+label {
+  line-height: 1.6;
+}
+
+
+.questions {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.answers {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
